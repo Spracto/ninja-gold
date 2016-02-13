@@ -1,0 +1,38 @@
+#farmbox, #cavebox, #housebox, #casinobox{
+	
+	height: 300px;
+	width: 300px;
+	display: inline-block;
+	background-color: green;
+}
+
+#score{
+	height: 70px;
+	width: 180px;
+	border: 5px solid black;
+	display: inline-block;
+
+}
+p{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 25px;
+}
+#activity{
+	height:300px;
+	width: 1200px;
+	border: 5px solid black;
+}
+h2, h3{
+	text-align: center;
+	color: white;
+}
+#locations input{
+	margin-left: 100px;
+	margin-top: 50px;
+}
+.restart form input{
+	margin-top: 50px;
+	margin-left: 1050px;
+	padding: 30px 60px 30px 60px;
+}
